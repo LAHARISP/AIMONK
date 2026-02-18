@@ -40,16 +40,13 @@ Images with `NA` values are **not ignored**.
 Output of training:
 
 ## 🚀 Training<img width="804" height="673" alt="Screenshot 2026-02-17 210000" src="https://github.com/user-attachments/assets/de9d9959-13bf-42ca-afcb-9322153dac73" />
-<img width="804" height="673" alt="Screenshot 2026-02-17 210000" src="https://github.com/user-attachments/assets/de9d9959-13bf-42ca-afcb-9322153dac73" />
 
 
-Run:<img width="698" height="369" alt="Screenshot 2026-02-17 210511" src="https://github.com/user-attachments/assets/82cd1f55-7e34-487d-86c2-6139de7c0d45" />
+
 <img width="698" height="369" alt="Screenshot 2026-02-17 210511" src="https://github.com/user-attachments/assets/82cd1f55-7e34-487d-86c2-6139de7c0d45" />
 
 
-
-
-
+Run:
 ```bash
 python train.py
 
