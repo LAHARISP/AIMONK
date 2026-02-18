@@ -49,5 +49,7 @@ Output of training:
 Run:
 ```bash
 python train.py
+python inference.py
+
 
 
